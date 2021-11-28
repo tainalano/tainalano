@@ -5,7 +5,7 @@
 ```python
 name = "Tainá Alano"
 age = 23
-pets = "Cacau" + "Gato"
+pets = "Cacau" + "Chiquinho"
 hobby = "Gym"
 drinking = "Water"
 studying = true
