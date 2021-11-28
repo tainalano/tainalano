@@ -5,10 +5,9 @@
 ```python
 name = "Tainá Alano"
 age = 23
-pets = "Cacau"
+pets = "Cacau" + "Gato"
 hobby = "Gym"
 drinking = "Water"
 studying = true
 
 print("I'm " + name + ", a medical student and research enthusiast trying to learn Python and new things!")
-```
