@@ -4,9 +4,9 @@
 
 ```python
 name = "Tainá Alano"
-age = 23
-pets = "Cacau" + "Chiquinho"
-hobby = "Gym"
+age = 24
+pets = "Cacau" + "Chiquinho" + "Dharma"
+hobbie = "Gym" + "Writing"
 drinking = "Water"
 studying = true
 
